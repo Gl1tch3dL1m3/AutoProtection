@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 This Privacy Policy describes how AutoProtection collects, uses, and protects the personal information you provide when using our Discord bot. By using AutoProtection, you consent to the practices described in this Privacy Policy.
 
