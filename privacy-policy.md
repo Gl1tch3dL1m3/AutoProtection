@@ -7,6 +7,7 @@ This Privacy Policy describes how AutoProtection collects, uses, and protects th
 - **Automatically Collected Information:** We may collect certain information automatically when you use AutoProtection, such as your Discord user ID, usage data, and other technical information.
 
 2. **How We Use Your Information**
+   
 We may use the information we collect for various purposes, including:
 - To provide and maintain AutoProtection's functionality.
 - To personalize your experience and improve our services.
@@ -14,13 +15,17 @@ We may use the information we collect for various purposes, including:
 - To detect, prevent, and address technical issues.
 
 3. **Information Sharing and Disclosure**
+   
 We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this Privacy Policy or as required by law. We may share your information with third-party service providers who assist us in operating our bot or providing services to you.
 
-4. **Data Security**
+5. **Data Security**
+   
 We take reasonable measures to protect the personal information we collect from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure.
 
-5. **Changes to This Privacy Policy**
+7. **Changes to This Privacy Policy**
+   
 We reserve the right to update or change our Privacy Policy at any time. Any changes will be effective immediately upon posting the updated Privacy Policy on this page. You are encouraged to review this Privacy Policy periodically for any changes.
 
-6. **Contact Us**
+9. **Contact Us**
+    
 If you have any questions or concerns about this Privacy Policy, please contact us at [our Discord support server](https://discord.com/invite/tr55DGHEwN).
